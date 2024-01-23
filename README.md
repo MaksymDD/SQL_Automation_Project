@@ -138,6 +138,18 @@ Function WorksheetExists(sheetName As String) As Boolean
 End Function
 ```
 
+## Outputs
+
+Here are results:
+
+![Screenshot 1](SQL_Automation_Project/screenshots/chart_per_country.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](SQL_Automation_Project/screenshots/data_per_country.png)
+*Caption for Screenshot 2*
+
+
+
 
 
     
