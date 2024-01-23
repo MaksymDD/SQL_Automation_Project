@@ -1,6 +1,6 @@
 In this folder you can find two files:
 - charts.py
--test_template.xlsm
+- test_template.xlsm
 
 Before running this project on your own, make sure to save both files in your local space. 
 
