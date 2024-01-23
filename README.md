@@ -36,11 +36,14 @@ conn = psycopg2.connect(
 )
 ```
 
-After that, I create SQL queries. For this project, I used three different queries. However, for the purpose of demonstatrion I am going to use just one of them: revenue per country.
+After that, I create SQL queries. For this project, I used three different queries. 
 
-- Total revenue per country
+- **Total revenue per country**
 - Total revenue per item
 - Sales per quarter based from the year 2011
+- 
+However, for the purpose of demonstatrion I am going to use just one of them: revenue per country.
+
 
 ```python
 #  SQL query per coutry
