@@ -143,9 +143,11 @@ End Function
 Here are results:
 
 ![data_per_country](https://github.com/MaksymDD/Duplicates_Project/assets/156451919/7fddbb58-97a9-430a-8b2e-b41791764b51)
+
 *Data extracted from our SQL dataset*
 
 ![chart_per_country](https://github.com/MaksymDD/Duplicates_Project/assets/156451919/85a36ca9-76d8-4070-86e6-f06b20a43dbe)
+
 *Chart of revenue per country*
 
 
