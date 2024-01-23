@@ -142,11 +142,11 @@ End Function
 
 Here are results:
 
-![Screenshot 1](SQL_Automation_Project/screenshots/chart_per_country.png)
-*Caption for Screenshot 1*
+![data_per_country](https://github.com/MaksymDD/Duplicates_Project/assets/156451919/7fddbb58-97a9-430a-8b2e-b41791764b51)
+*Data extracted from our SQL dataset*
 
-![Screenshot 2](SQL_Automation_Project/screenshots/data_per_country.png)
-*Caption for Screenshot 2*
+![chart_per_country](https://github.com/MaksymDD/Duplicates_Project/assets/156451919/85a36ca9-76d8-4070-86e6-f06b20a43dbe)
+*Chart of revenue per country*
 
 
 
