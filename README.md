@@ -28,11 +28,11 @@ import xlwings as xw
 
 # PostgreSQL connection 
 conn = psycopg2.connect(
-    dbname="retails_transactions",
-    user="postgres",
-    password="kilovaTi2?",
+    dbname="name_of_data_base",
+    user="name",
+    password="your_password",
     host="localhost",
-    port="5432"
+    port="..."
 )
 ```
 
