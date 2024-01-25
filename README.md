@@ -145,11 +145,12 @@ End Function
 
 Here are results:
 
-![data_per_country](https://github.com/MaksymDD/Duplicates_Project/assets/156451919/7fddbb58-97a9-430a-8b2e-b41791764b51)
-
-*Data extracted from our SQL dataset*
+![image](https://github.com/MaksymDD/SQL_Automation_Project/assets/156451919/f173610c-f9d2-4e4f-88cf-2f6b857f9076)
 
 ![chart_per_country](https://github.com/MaksymDD/Duplicates_Project/assets/156451919/85a36ca9-76d8-4070-86e6-f06b20a43dbe)
+
+![total_revenue_per_item](https://github.com/MaksymDD/SQL_Automation_Project/assets/156451919/8105e787-8a33-4734-ab5e-b00eadd61b8b)
+
 
 *Chart of revenue per country*
 
